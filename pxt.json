@@ -1,0 +1,15 @@
+{
+    "name": "areaOfRectangle",
+    "version": "0.0.1",
+    "description": "這裡的內容請自行修改",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh-tw/namespace名稱-strings.json"
+    ],
+    "public": true
+}
